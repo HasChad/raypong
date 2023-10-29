@@ -1,2 +1,2 @@
 # raypong
-pong game made with raylib using c
+Pong Game made with Raylib using C
